@@ -25,28 +25,28 @@ html, body {
 
 h1 {
     text-align: left;
-    border-width: 0px;
-    margin: 5px;
+    border-width: 10px;
+    margin: 10px;
 }
 
 h2 {
     text-align: left;
-    border-width: 50px;
-    margin: 5px;
+    border-width: 10px;
+    margin: 10px;
     font-weight: bold;
 }
 
 h4 {
     text-align: left;
-    border-width: 0px;
-    margin: 5px;
+    border-width: 10px;
+    margin: 10px;
     font-weight: normal;
 }
 
 h3 {
     display: flex;
-    margin: 0px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
     font-weight: normal;
 }
 
@@ -54,20 +54,20 @@ figcaption {
     color: GREY;
     font-size: 14px;
     font-style: italic;
-    margin: 0 auto;
-    padding: 0px;
+    margin: 10px auto;
+    padding: 10px;
 }
 
 p {
     text-align: left;
-    margin: 0 auto;
-    padding: 5px;
+    margin: 10px auto;
+    padding: 10px;
 }
 
 figure {
   display: block;
   width:200px;
-  margin: 0 auto;
+  margin: 10px auto;
   padding: 15px;
 }
 
@@ -86,7 +86,7 @@ img {
 .photo {
   display: block;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 10px auto;
   padding: 10px;
   flex-basis:25%
 }
